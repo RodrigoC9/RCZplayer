@@ -1,0 +1,15 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+div#player{
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+}
+ul#playlist{
+    list-style: none;
+}
